@@ -14,7 +14,6 @@ jobs:
           github_user_name: MaoenD
           outputs: |
             dist/github-contribution-grid-snake.svg
-          # Forcer le style sombre exact
           palette: "github-dark"
           color_snake: "#bf00ff" 
           color_dots: "#39ff14,#26d930,#3fbb39,#219a3f"
