@@ -15,8 +15,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
           palette: "github-dark"
-          color_snake: "#bf00ff" 
-          color_dots: "#39ff14,#26d930,#3fbb39,#219a3f"
+          color_snake: "#bf00ff"
+          color_dots: "#161b22,#0e4429,#006d32,#26a641,#39d353"
           background: "#0d1117"
 
       - name: Push to output branch
