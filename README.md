@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guillaume and I'm a student in Infrastructure and Cybersecurity from France</h2>
+<h2 align="center">Hi 👋! My name is Guillaume and I'm a student in Infrastructure and Cybersecurity from France</h2>
 
 ###
 
@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MaoenD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaoenD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=MaoenD&theme=dark_dimmed&no-frame=true&no-bg=true" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaoenD&theme=github-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaoenD&theme=github-dark&radius=1&area=false&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -69,8 +69,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/MaoenD/MaoenD/output/snake.svg" alt="Snake animation" />
 
