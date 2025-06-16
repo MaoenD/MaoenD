@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MaoenD/MaoenD/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MaoenD/MaoenD/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
