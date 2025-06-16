@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Guillaume and I'm a student in Infrastructure and Cybersecurity from France</h2>
+<h2 align="center">Hi 👋! My name is Guillaume and I'm an IT Infrastructure and Cybersecurity student from France</h2>
 
 ###
 
