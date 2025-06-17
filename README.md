@@ -9,7 +9,7 @@
 - ✨ Creating bugs since 2022
 - 🔭 I'm working as a student in cybersecurity
 - 📚 I'm actively learning Cybersecurity and Infrastructure (Cisco, TryHackMe)
-- ⚡ In my free time, I'm building and securing an extranet—check it out in the [Projet_Infra](https://github.com/MaoenD/Projet_Infra) repository!
+- ⚡ In my free time, I'm building and securing an extranet — check it out in the [Projet_Infra](https://github.com/MaoenD/Projet_Infra) repository!
 
 ###
 
