@@ -2,6 +2,22 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Cybersecurity and Infrastructure<br>🎯 Goals: To become an it in cybersecurity and infrastructure <br>🎲 Working on: i'm working on an extranet and it's security you can check it out in the Projet_Infra repository</p>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as a student in cybersecurity<br>- 📚 I'm Actively learning Cybersecurity and Infrastructure (Cisco, TryHackMe)<br>- ⚡ In my free time, I'm building and securing an extranet—check it out in the [Projet_Infra](https://github.com/MaoenD/Projet_Infra) repository! </p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaoenD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaoenD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph" /> <br>
